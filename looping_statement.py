@@ -1,6 +1,4 @@
-#print all even numbers from 1 to 100
-a= 1
-while a<=100:
-    if a%2==0:
-        print(a)
-    a+=1
+for i in range (0,10):
+    print (i+1)
+    sum = i+1
+print (sum)
